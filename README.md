@@ -1,2 +1,2 @@
 # SistemasComerciasJavaEE
-Projetos realizado no curdo de Java EE
+Projetos realizados no curso de Java EE
